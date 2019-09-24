@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). An example of [React Paginate](https://github.com/AdeleD/react-paginate) using  [Bootstrap](https://getbootstrap.com/).
 
 ## Install Dependencies
 
